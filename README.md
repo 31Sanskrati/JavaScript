@@ -11,3 +11,4 @@ Currently I am learning and solving problems in JavaScript.
 | # | Problem | Solution | Difficulty |
 | :---         |     :---:      |     :---:      |          ---: |
 |       1      |          [Hello, World!](https://www.hackerrank.com/challenges/js10-hello-world/problem)            |       [JS](https://github.com/31Sanskrati/JavaScript/blob/main/Hello%2C%20World!.js)         |    Easy     |
+|       2      |          [Data Types!](https://www.hackerrank.com/challenges/js10-data-types/problem)            |       [JS](https://github.com/31Sanskrati/JavaScript/blob/main/Data%20Types.js)         |    Easy     |
