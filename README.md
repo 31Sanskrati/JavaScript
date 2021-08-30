@@ -1,5 +1,5 @@
 # JavaScript
-Currently I am solving problems in JavaScript 
+Currently I am learning and solving problems in JavaScript. 
 
 ### Platform for Questions
 - [HackerRank](https://www.hackerrank.com/dashboard) 
