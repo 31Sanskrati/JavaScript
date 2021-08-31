@@ -10,5 +10,5 @@ Currently I am learning and solving problems in JavaScript.
 
 | # | Problem | Solution | Difficulty |
 | :---         |     :---:      |     :---:      |          ---: |
-|       1      |          [Hello, World!](https://www.hackerrank.com/challenges/js10-hello-world/problem)            |       [JS](https://github.com/31Sanskrati/JavaScript/blob/main/Hello%2C%20World!.js)         |    Easy     |
-|       2      |          [Data Types!](https://www.hackerrank.com/challenges/js10-data-types/problem)            |       [JS](https://github.com/31Sanskrati/JavaScript/blob/main/Data%20Types.js)         |    Easy     |
+|       Day 1      | - [Let and Const](https://www.hackerrank.com/challenges/js10-let-and-const/problem) - [Function](https://www.hackerrank.com/challenges/js10-function/problem) - [Arithmetic Operators](https://www.hackerrank.com/challenges/js10-arithmetic-operators/problem) |       [JS](https://github.com/31Sanskrati/JavaScript-Questions/tree/main/Day%201)         |    Easy     |
+|       Day 0      |          - [Hello, World!](https://www.hackerrank.com/challenges/js10-hello-world/problem) - [Data Types!](https://www.hackerrank.com/challenges/js10-data-types/problem)            |      - [JS](https://github.com/31Sanskrati/JavaScript/blob/main/Hello%2C%20World!.js) - [JS](https://github.com/31Sanskrati/JavaScript/blob/main/Data%20Types.js)         |    Easy     |
