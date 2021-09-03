@@ -11,13 +11,15 @@ Currently I am learning and solving problems in JavaScript.
 ### Learning Chart
 | Day | Topics Completed | Code | Source |
 | :---         |     :---:      |     :---:      |          ---: |
-| 1 | Started Basic JS | - | [freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) |
-| 2 | Basic JS | - | [freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) |
+| 1 | Started Basic JS (till 15)| - | [freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) |
+| 2 | Basic JS (till 25)| - | [freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) |
 |   | Chapter 1 | [Examples](https://github.com/31Sanskrati/30-Days-to-JavaScript/tree/main/Chapter%201) | Eloquent JavaScript |
-| 3 | Basic JS | - | [freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) |
+| 3 | Basic JS (till 40)| - | [freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) |
 |   | Chapter 2 | [Exercise](https://github.com/31Sanskrati/30-Days-to-JavaScript/tree/main/Chapter%202) | Eloquent JavaScript |
-| 4 | Basic JS | - | [freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) |
+| 4 | Basic JS (till 55)| - | [freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) |
 |   | Chapter 3 | [Examples](https://github.com/31Sanskrati/30-Days-to-JavaScript/tree/main/Chapter%203) | Eloquent JavaScript |
+| 5 | Basic JS (till 73)| - | [freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) |
+|   | Chapter 3 | [Exercise](https://github.com/31Sanskrati/30-Days-to-JavaScript/tree/main/Chapter%203/exercise) | Eloquent JavaScript |
 
 
 ### HackerRank Problems
