@@ -20,9 +20,9 @@ Currently I am learning and solving problems in JavaScript.
 |   | Chapter 3 | [Examples](https://github.com/31Sanskrati/30-Days-to-JavaScript/tree/main/Chapter%203) | Eloquent JavaScript |
 | 5 | Basic JS (till 73)| - | [freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) |
 |   | Chapter 3 | [Exercise](https://github.com/31Sanskrati/30-Days-to-JavaScript/tree/main/Chapter%203/exercise) | Eloquent JavaScript |
-| 4 | Chapter 4 | - | Eloquent JavaScript |
 | 6 | Chapter 4 | [Examples](https://github.com/31Sanskrati/30-Days-to-JavaScript/tree/main/Chapter%204) | Eloquent JavaScript |
 | 7 | Chapter 4 | [Exercise](https://github.com/31Sanskrati/30-Days-to-JavaScript/tree/main/Chapter%204/Exercise) | Eloquent JavaScript |
+| 8 | Basic JS (till 90)| - | [freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) |
 
 
 ### HackerRank Problems
