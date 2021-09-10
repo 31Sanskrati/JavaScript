@@ -24,6 +24,7 @@ Currently I am learning and solving problems in JavaScript.
 | 7 | Chapter 4 | [Exercise](https://github.com/31Sanskrati/30-Days-to-JavaScript/tree/main/Chapter%204/Exercise) | Eloquent JavaScript |
 | 8 | Basic JS (till 90)| - | [freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) |
 | 10 | Completed Basic JS | - | [freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) |
+|   | Chapter 5 | [Exercise](https://github.com/31Sanskrati/30-Days-to-JavaScript/tree/main/Chapter%205) | Eloquent JavaScript |
 
 
 ### HackerRank Problems
